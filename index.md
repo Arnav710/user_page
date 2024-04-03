@@ -8,17 +8,18 @@ int main(){
 }
 ```
 
-**Key Interests:**
+#### Key Interests:
 1. Computer Vision
 2. Parallel Programming
 3. Cloud Computing
 
-**Here are some of my past experiences:**
+#### Here are some of my past experiences:
 
 - Intructional Assistant, UCSD CSE
 - Software Engineering Intern, Mercury Alert
 - Research Volunteer, San Diego Supercomputer Center
 
+**Spare time activities**: gym, soccer, table tennis!
 
 I believe that in this rapidly changing world, always being willing to learn and adopt new skills is essential.
 
