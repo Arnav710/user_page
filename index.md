@@ -32,3 +32,7 @@ I believe that in this rapidly changing world, always being willing to learn and
 
 **Socials**
 Visit my [LinkedIn](https://www.linkedin.com/in/arnav-modi/) to learn more about me!
+
+**TODO**
+- [ ] Finish working on Gesture Control Computer Vision project and add new features
+- [x] Finish the lab for CSE 110
