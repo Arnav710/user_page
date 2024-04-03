@@ -8,22 +8,25 @@ int main(){
 }
 ```
 
-#### Key Interests:
+### Key Interests:
 1. Computer Vision
 2. Parallel Programming
 3. Cloud Computing
 
-#### Here are some of my past experiences:
+### Here are some of my past experiences:
 
 - Intructional Assistant, UCSD CSE
 - Software Engineering Intern, Mercury Alert
 - Research Volunteer, San Diego Supercomputer Center
 
-**Spare time activities**: gym, soccer, table tennis!
+**Spare time activities**
+Gym, soccer, table tennis!
 
+**Self Learning**
 I believe that in this rapidly changing world, always being willing to learn and adopt new skills is essential.
 
 > Self-education is, I firmly believe, the only kind of education there is. ~  Isaac Asimov
 
+**Socials**
 Visit my [LinkedIn](https://www.linkedin.com/in/arnav-modi/) to learn more about me!
 
