@@ -19,6 +19,7 @@ int main(){
 - Software Engineering Intern, Mercury Alert
 - Research Volunteer, San Diego Supercomputer Center
 
+### Miscellaneous
 **Spare time activities**
 Gym, soccer, table tennis!
 
