@@ -26,7 +26,7 @@ I am open to opportunities in the software engin
 ![
 ](image.png)
 
-And some more...
+> And some more...
 
 ### Miscellaneous
 **Spare time activities**
