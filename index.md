@@ -21,6 +21,13 @@ int main(){
 
 I am open to opportunities in the software engin
 
+### Programming Languages
+
+![
+](image.png)
+
+And some more...
+
 ### Miscellaneous
 **Spare time activities**
 Gym, soccer, table tennis!
