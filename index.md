@@ -8,6 +8,8 @@ int main(){
 }
 ```
 
+~~This was not meant to be there!~~
+
 ### Key Interests:
 1. *Computer Vision* (Here's the link to the [readme](random-project.md) of a project I worked on long ago!)
 2. Parallel Programming
