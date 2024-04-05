@@ -9,7 +9,7 @@ int main(){
 ```
 
 ### Key Interests:
-1. Computer Vision (Here's the link to the [readme](random-project.md) of a project I worked on long ago!)
+1. *Computer Vision* (Here's the link to the [readme](random-project.md) of a project I worked on long ago!)
 2. Parallel Programming
 3. Cloud Computing
 
@@ -41,5 +41,5 @@ I believe that in this rapidly changing world, always being willing to learn and
 Visit my [LinkedIn](https://www.linkedin.com/in/arnav-modi/) to learn more about me!
 
 **TODO**
-- [ ] Finish working on Gesture Control Computer Vision project and add new features
-- [x] Finish the lab for CSE 110
+[ ] Finish working on Gesture Control Computer Vision project and add new features
+[x] Finish the lab for CSE 110
